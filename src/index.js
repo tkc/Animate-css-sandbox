@@ -39,3 +39,5 @@ new Event('.sample2', 'fadeIn');
 new Event('.sample3', 'fadeInDown');
 new Event('.sample4', 'fadeInUp');
 new Event('.sample5', 'fadeInDuration3');
+new Event('.sample6', 'bounce');
+new Event('.sample7', 'shake');
